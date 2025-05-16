@@ -1,4 +1,4 @@
-# CS 598 GNS (Logic and AI) Course Project
+# Robustness Verification of ReLU Neural Networks using DeepPoly778
 
 
 
