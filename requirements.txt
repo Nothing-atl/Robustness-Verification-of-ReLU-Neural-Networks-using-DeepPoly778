@@ -1,0 +1,6 @@
+numpy==1.26.4
+torch==2.6.0
+torchvision==0.21.0
+scipy==1.13.1
+
+
